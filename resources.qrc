@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>elliot bball game court 1 copy (small).jpg</file>
+        <file>elliot bball game court 2 copy (small).jpg</file>
+        <file>elliot-bball-game-ball-1.png</file>
+        <file>elliot-bball-game-ball-2.png</file>
+        <file>elliot-bball-game-hoop-1.png</file>
+        <file>elliot-bball-game-hoop-2.png</file>
+        <file>elliot-bball-game-defender.png</file>
+        <file>elliot-bball-game-shooter-1.png</file>
+        <file>elliot-bball-game-shooter-2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bensound-jazzyfrenchy.mp3</file>
+        <file>Space Jam Theme Song.mp3</file>
+    </qresource>
+</RCC>
